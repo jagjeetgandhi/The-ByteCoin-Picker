@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3B68D8F-F0DF-4C7B-A123-67D2B94DFD32"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/View Model/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - dcaa56bc95168663"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.Crypto.getter : Swift.String"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - 2d9524101f7f766f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.Crypto.setter : Swift.String"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - 94f529465f3750a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.Crypto.modify : Swift.String"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - cf826b83d0e8c86f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.Crypto.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - 80b22678565e8767"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ByteCoin.ViewController"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "933">
+               </Location>
+               <Location
+                  uuid = "D47ACF66-AE8B-4820-AAEF-89E5AB88EE85 - 3be2d8854a8a48dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ByteCoin.ViewController&gt;"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jagjeet/Desktop/Sampe_Xcode/ByteCoin-iOS13/ByteCoin/View%20Model/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "874">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
